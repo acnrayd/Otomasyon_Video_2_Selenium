@@ -3,6 +3,8 @@
  
 Bu bölümümüzde, hem API'ları, hem de SOAR gibi bir otomasyon platformu olmayan basit bir ortamda, iki farklı güvenlik ürününü nasıl birbiri ile konuşturabileceğimizi ele alıyoruz. Müşterimiz Firewall'unda engellenen IP adreslerini, Endpoint Security ürününde de engellemek isterse, API kullanmadan bunu nasıl yapabiliriz? Bir günde binlerce kuralı bir cihazdan diğerine taşımanız gerekirse en kolay ve en otomatik bir şekilde bu işlemi nasıl tasarlarız? Selenium Webdriver ile, web arayüzleri içerisinde otomatik aksiyon aldırmamız mümkün mü? Syslog'dan gelen verileri, diske toplayacak bir dinleyici script'i yazabilir miyiz?
 
+Video linki: https://youtu.be/wWwVtO3iqg0
+
 İlerideki videolarda SOAR ve API'lar yardımıyla da otomasyon örnekleri paylaşacağız.
 
 ### Videoda kullanilan script'ler:
